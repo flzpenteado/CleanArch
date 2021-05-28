@@ -1,1 +1,8 @@
-/.idea/
+
+bin/
+obj/
+/node_modules
+/wwwroot/node_modules
+/.idea
+
+
