@@ -15,4 +15,7 @@
       <ProjectReference Include="..\CleanArch.Infra.Data\CleanArch.Infra.Data.csproj" />
       <ProjectReference Include="..\Infra.IoC\Infra.IoC.csproj" />
     </ItemGroup>
+    <ItemGroup>
+      <Folder Include="wwwroot\images" />
+    </ItemGroup>
 </Project>
